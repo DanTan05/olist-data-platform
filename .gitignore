@@ -1,0 +1,14 @@
+# data (download from Kaggle; too large for git)
+data/
+powerbi/data/
+
+# private working files
+learning/
+notes/
+
+# environment and secrets
+.venv/
+.env
+__pycache__/
+.ipynb_checkpoints/
+*.pbix.bak
